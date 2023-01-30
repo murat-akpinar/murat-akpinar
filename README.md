@@ -59,12 +59,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" height="50" title="read book" alt="read book"  />
+  <a href="https://www.goodreads.com/review/list/162182691?ref=nav_mybooks" target="_blank">
+   <img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" height="50" title="read book" alt="read book"  />
+  </a>
   <img src="https://cdn-icons-png.flaticon.com/512/6836/6836867.png" height="50" title="dnd" alt="dnd"  />
   <a href="https://steamcommunity.com/id/magwyen/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png" height="50" title="game" alt="game"  /></a>
-  <img src="https://seeklogo.com/images/M/mugiwara-logo-303FD55C54-seeklogo.com.png" height="50" title="one piece" alt="dnd"  />
-  
-  
+  <a href="https://myanimelist.net/profile/magwyen" target="_blank">
+  <img src="https://seeklogo.com/images/M/mugiwara-logo-303FD55C54-seeklogo.com.png" height="50" title="anime manga" alt="anime manga"  />
+   </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/588/588323.png" height="50" title="Lego" alt="Lego"  />
 </div>
 
 ###
