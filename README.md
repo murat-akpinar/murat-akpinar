@@ -59,10 +59,15 @@
 ###
 
 <div align="left">
+  <img src="https://w7.pngwing.com/pngs/715/971/png-transparent-book-stack-book-reading-library-icon-books-blue-angle-text-thumbnail.png" height="35" alt="dnd"  />
+  
   <a href="https://steamcommunity.com/id/magwyen/" target="_blank">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" height="35" alt="steam"  />
   </a>
-
+  <img src="https://i.hizliresim.com/mqglzmk.png" height="50" alt="dnd"  />
+  
+  
+ 
 </div>
 
 ###
