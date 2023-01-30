@@ -17,7 +17,7 @@
 
 ###
 
-<img align="right" height="400" width="550" src="https://64.media.tumblr.com/e92a9472c0062f530e139d1d86abc620/tumblr_ou6ys7IwmU1w86w6ho1_1280.gif"  />
+<img align="right" height="400" width="650" src="https://64.media.tumblr.com/e92a9472c0062f530e139d1d86abc620/tumblr_ou6ys7IwmU1w86w6ho1_1280.gif"  />
 
 ###
 
