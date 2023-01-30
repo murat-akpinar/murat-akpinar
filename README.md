@@ -59,13 +59,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" height="50" alt="read book"  />
-  <img src="https://cdn-icons-png.flaticon.com/512/6836/6836867.png" height="50" alt="dnd"  />
-  <img src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png" height="50" alt="game"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" height="50" title="read book" alt="read book"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/6836/6836867.png" height="50" title="dnd" alt="dnd"  />
+  <a href="https://steamcommunity.com/id/magwyen/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png" height="50" title="game" alt="game"  /></a>
   
-  
-  
- 
 </div>
 
 ###
