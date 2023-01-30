@@ -63,9 +63,7 @@
   <a href="https://www.goodreads.com/review/list/162182691?ref=nav_mybooks" target="_blank">
    <img src="https://cdn-icons-png.flaticon.com/512/1903/1903162.png" height="50" title="read book" alt="read book"  />
   </a>
-  
   <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6836/6836867.png" height="50" title="dnd" alt="dnd"  /></a>
- 
   <a href="https://steamcommunity.com/id/magwyen/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png" height="50" title="game" alt="game"  />
   </a>
   <a href="https://myanimelist.net/profile/magwyen" target="_blank">
