@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">Çocukluğumdan beri fantastik ve bilim kurgu dünyalarını oldum olası sevdim. Tabi ki gerçek hayatta bunlar mümkün değil ama bilgisayar bunları mümkün kıldığını düşünüyorum. Bir çok harika oyun oynadım bir çok harika insan ile tanıştım özellikle lise stajı yaptığım dönem tanıştığım arkadaşım ve World of Warcraft oynarken tanıştığım insanlar. Bu hevesle meslek lisesine gittim orada web tasarım bölümünü bitirdim. Oradan 2 yıllık Konya Selçuk MYO bilgisayar programcılığı bölümüne geçtim.<br><br>Okul bittikten sonra belirli bir süre Konya’da Aşçı Yapı’da çalıştım. Şirketin kablolama ve web sitesi işlerini yaptım. Sonra Ankara’ya döndüm ve babamın işlerinde yardımcı olmaya çalıştım tabi bu süre zarfında bilişim dünyasından epey bir uzak kaldım. Tabi yıllar bir birini kovaladı oyunlar oynandı, kitaplar okundu, şarkılar dinlendi bu sırada şans eseri arkadaşım teşvikleri ile Mustafa Akgül Özgür Yazılım Yaz Kampı ile tanıştım ve GNU/Linux Sistem Yönetimi kursunu aldım. Sanırım bu bende bir kıvılcım yaktı ve neden olmasın dedim. Hikayenin buraya kadar olan kısmı sabit gelecek bize ne getirecek bilmiyorum.</h5>
+<h5 align="left">I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. I have spent the night with Felurian and left with both my sanity and my life. I was expelled from the University at a younger age than most people are allowed in. I tread paths by moonlight that others fear to speak of during day. I have talked to gods, loved women, and written songs that make the minstrels weep. You may have heard of me.</h5>
 
 ###
 
