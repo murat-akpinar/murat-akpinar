@@ -47,7 +47,7 @@
   <a href="mailto:akpinarmurat@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" height="35" alt="protonmail logo"  />
   </a>
-  <a href="https://akpinarmurat.com.tr" target="_blank">
+  <a href="https://muratakpinar.com.tr/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="35" alt="my web site"  />
   </a>
  
