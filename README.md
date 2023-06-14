@@ -35,7 +35,7 @@
   <img src="https://www.svgrepo.com/show/448233/kubernetes.svg" height="30" width="42" alt="kubernetes  logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" width="42" alt="nginx logo"  />
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="30" width="42" alt="zabbix logo"  />
+  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="30" width="30" alt="zabbix logo"  />
   
 </div>
 
