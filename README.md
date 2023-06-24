@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My Murat AKPINAR is Junior Linux System Administrator from Turkey</h2>
+<h2 align="left">Hi 👋! My Murat AKPINAR is Linux System Administrator from Turkey</h2>
 
 ###
 
