@@ -4,11 +4,22 @@
 
 <h3 align="left">About Me</h3>
 
-###
+I am a passionate individual driven by the world of technology, particularly in the realm of Linux systems. With a strong foundation in GNU/Linux structure and administration, gained through my participation in the Mustafa Akgül Free Software Camp, I have developed a keen interest in advancing my career as a Linux System Administrator.
 
-<h5 align="left">I have stolen princesses back from sleeping barrow kings. I burned down the town of Trebon. I have spent the night with Felurian and left with both my sanity and my life. I was expelled from the University at a younger age than most people are allowed in. I tread paths by moonlight that others fear to speak of during day. I have talked to gods, loved women, and written songs that make the minstrels weep. You may have heard of me.</h5>
+My journey began with a curiosity to explore the intricate workings of Linux systems, and it has since evolved into a dedicated pursuit of expertise. Through hands-on experiences repairing diverse Linux distributions and crafting efficient solutions, I have honed my problem-solving skills and attention to detail. My proficiency extends to Docker, where I have successfully integrated monitoring and management tools to streamline container operations.
 
-###
+Beyond technical expertise, I am also enthusiastic about contributing to collaborative environments. I believe in the power of teamwork and open communication to drive innovation and achieve collective goals. My dedication to continuous learning and growth propels me forward, as I aim to not only excel as a Linux System Administrator but also to contribute meaningfully to the IT community.
+
+In my free time, I enjoy further expanding my skill set, staying up-to-date with industry trends, and occasionally indulging in a session of the D&D tabletop game. I am excited about the opportunities that lie ahead in the world of Linux systems and am committed to making a meaningful impact through my expertise.
+
+> I have stolen princesses back from sleeping barrow kings.
+> I burned down the town of Trebon.
+> I have spent the night with Felurian and left with both my sanity and my life.
+> I was expelled from the University at a younger age than most people are allowed in.
+> I tread paths by moonlight that others fear to speak of during day.
+> I have talked to gods, loved women, and written songs that make the minstrels weep.
+> You may have heard of me.
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=murat-akpinar" height="150" alt="stats graph"  />
