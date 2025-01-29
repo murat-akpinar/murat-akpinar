@@ -80,9 +80,6 @@ In my free time, I enjoy further expanding my skill set, staying up-to-date with
   <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6836/6836867.png" height="50" title="dnd" alt="dnd"  /></a>
   <a href="https://steamcommunity.com/id/magwyen/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2780/2780137.png" height="50" title="game" alt="game"  />
   </a>
-  <a href="https://myanimelist.net/profile/magwyen" target="_blank">
-    <img src="https://seeklogo.com/images/M/mugiwara-logo-303FD55C54-seeklogo.com.png" height="50" title="anime manga" alt="anime manga"  />
-  </a>
   <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/588/588323.png" height="50" title="Lego" alt="Lego"  /></a>
 </div>
 
